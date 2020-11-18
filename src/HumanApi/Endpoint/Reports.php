@@ -6,7 +6,7 @@ namespace Choccybiccy\HumanApi\Endpoint;
  * Class Reports
  * @package Choccybiccy\HumanApi\Endpoint
  */
-class Reports extends PeriodicEndpoint
+class Reports extends SimpleEndpoint
 {
 
     /**
